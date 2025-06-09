@@ -12,6 +12,8 @@ This is my personal [Next.js](https://nextjs.org) starter template—it comes wi
 - [Jotai](https://jotai.org/) for state management
 - [Motion](https://motion.dev/)
 
+## Cloning the repo 
+
 You can clone this repository:
 
 ```bash
@@ -37,5 +39,3 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see your new personal website.
