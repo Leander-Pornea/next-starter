@@ -1,7 +1,5 @@
 This is my personal [Next.js](https://nextjs.org) starter template—it comes with my personal preference libraries and components. 
 
----
-
 ## Features and Packages
 
 - Pre-configured for fast customization
@@ -13,8 +11,6 @@ This is my personal [Next.js](https://nextjs.org) starter template—it comes wi
 - [React Wrap Balancer](https://github.com/shuding/react-wrap-balancer)
 - [Jotai](https://jotai.org/) for state management
 - [Motion](https://motion.dev/)
-
----
 
 You can clone this repository:
 
