@@ -1,4 +1,4 @@
-This is my personal [Next.js](https://nextjs.org) starter template—it comes with my personal preference libraries and components. 
+This is my personal [Next.js](https://nextjs.org) starter template—it comes with my preferred libraries and components. 
 
 ## Features and Packages
 
